@@ -1,0 +1,46 @@
+h1{
+	color:black;
+	background: rgba(247, 158, 231,.6);
+	border: 5px solid black;
+	text-shadow: 2px 2px red;
+
+	}
+.ab{
+	color:orange;
+	background:rgba(0,0,90,.5); 
+	border: 1px soldi lightgrey;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 		
+	line-height: normal;
+}
+.bug{
+	color:orange;
+	background:rgba(0,0,0,.5);
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;  
+}
+body{
+	background: url(https://images.wallpaperscraft.com/image/loneliness_man_sunset_132970_1920x1080.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.thank{
+	background: yellow;
+	border: 2px dashed red;
+}
+.he{
+	color:yellow;
+	background: rgba(0,0,0,.5);
+	border: 1px soldi lightgrey;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 	
+}
+.edu{
+	color:yellow;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 		
+	line-height: normal;
+}
+h3{
+	color:yellow;
+	background: rgba(200,50,50,.5);
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 		
+	line-height: normal;
+
+	}
